@@ -1,4 +1,4 @@
-# 🎫 Customer Support Ticket Analytics
+# 🎫 Customer Support Ticket Root Cause Analytics
 
 ## 📌 Project Overview
 
